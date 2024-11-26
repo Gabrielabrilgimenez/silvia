@@ -1,0 +1,7 @@
+# security.txt
+Contact: mailto:security@tudominio.com
+Encryption: https://tudominio.com/clave-publica.asc
+Acknowledgements: https://tudominio.com/agradecimientos.html
+Policy: https://tudominio.com/politica-de-seguridad.html
+Hiring: https://tudominio.com/empleos.html
+Expires: 2024-12-31T23:59:59Z
